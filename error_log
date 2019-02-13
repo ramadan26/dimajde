@@ -1,0 +1,15 @@
+[20-Sep-2018 09:51:03 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/dimajde/public_html/web/application/views/partials/footer.php on line 53
+[20-Sep-2018 09:52:00 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/dimajde/public_html/web/application/views/partials/footer.php on line 53
+[20-Sep-2018 09:54:22 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/dimajde/public_html/web/application/views/partials/footer.php on line 53
+[20-Sep-2018 09:54:34 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/dimajde/public_html/web/application/views/partials/footer.php on line 53
+[20-Sep-2018 11:13:52 UTC] PHP Fatal error:  Call to undefined function word_limitter() in /home/dimajde/public_html/web/application/views/partials/client_slide.php on line 12
+[20-Sep-2018 11:16:49 UTC] PHP Fatal error:  Call to undefined function word_limitter() in /home/dimajde/public_html/web/application/views/partials/client_slide.php on line 12
+[20-Sep-2018 11:17:07 UTC] PHP Fatal error:  Call to undefined function word_limitter() in /home/dimajde/public_html/web/application/views/partials/client_slide.php on line 12
+[24-Sep-2018 04:38:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dimajde/public_html/web/application/views/partials/projects_slider.php on line 40
+[24-Sep-2018 04:39:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dimajde/public_html/web/application/views/partials/projects_slider.php on line 40
+[02-Oct-2018 09:36:07 UTC] PHP Fatal error:  Call to undefined function char_limiter() in /home/dimajde/public_html/web1/application/views/partials/about_introduction1.php on line 8
+[02-Oct-2018 09:36:32 UTC] PHP Fatal error:  Call to undefined function char_limiter() in /home/dimajde/public_html/web1/application/views/partials/about_introduction1.php on line 8
+[02-Oct-2018 09:45:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting ',' or ';' in /home/dimajde/public_html/web1/application/views/partials/about_speciallization.php on line 6
+[04-Oct-2018 10:38:48 UTC] PHP Fatal error:  Call to a member function order_by() on array in /home/dimajde/public_html/web1/application/models/Dimajde_model.php on line 145
+[04-Oct-2018 10:42:17 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::order_by() in /home/dimajde/public_html/web1/application/models/Dimajde_model.php on line 144
+[16-Dec-2018 11:01:08 UTC] PHP Fatal error:  Call to undefined method Grocery_CRUD::dispaly_as() in /home/dimajde/public_html/web1/application/controllers/Admin.php on line 547
